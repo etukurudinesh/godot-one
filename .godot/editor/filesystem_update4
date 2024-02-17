@@ -1,0 +1,9 @@
+res://scenes/player.tscn
+res://scripts/player.gd
+res://characters/happy_boo/happy_boo.tscn
+res://scenes/game.tscn
+res://scenes/pine_tree.tscn
+res://scenes/mob.tscn
+res://characters/slime/slime.tscn
+res://scripts/mob.gd
+res://characters/slime/slime.gd

@@ -1,5 +1,10 @@
 CollisionShape2D
-CharacterBody2D
+Area2D
+Timer
+Marker2D
 Node2D
+CanvasLayer
+Camera2D
+CharacterBody2D
 StaticBody2D
 ColorRect
